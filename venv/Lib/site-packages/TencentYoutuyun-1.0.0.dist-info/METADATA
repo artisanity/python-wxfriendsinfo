@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: TencentYoutuyun
+Version: 1.0.0
+Summary: python sdk for open.youtu.qq.com
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: MIT License
+Keywords: TencentYoutuyun,qcloud
+Platform: any
+Requires-Dist: requests
+
+UNKNOWN
+
+
